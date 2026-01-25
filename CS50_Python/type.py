@@ -1,0 +1,6 @@
+print(type(30))
+print(type("Hello world"))
+print(type([])) 
+print(type(list()))
+print(type({}))
+print(type(dict()))
